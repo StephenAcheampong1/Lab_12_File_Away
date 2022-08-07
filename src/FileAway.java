@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import javax.swing.JFileChooser;
 
-public class Main
+public class FileAway
 {
     public static void main(String[] args)
     {
